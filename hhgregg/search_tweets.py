@@ -1,7 +1,7 @@
 from TwitterAPI import TwitterAPI
 
 
-SEARCH_TERM = 'pizza'
+SEARCH_TERM = 'hhgregg'
 
 
 CONSUMER_KEY = ''

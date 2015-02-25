@@ -1,7 +1,7 @@
 from TwitterAPI import TwitterAPI
 
 
-TRACK_TERM = 'pizza'
+TRACK_TERM = 'hhgregg'
 
 
 CONSUMER_KEY = ''
